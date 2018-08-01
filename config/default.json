@@ -1,0 +1,10 @@
+{
+    "facebook":{
+        "baseURL": "https://graph.facebook.com/v2.6",
+        "FB_TOKEN": "EAAHoKlB9CfwBAGByJi0FmEceXLOMVHHxf1uZAC6CA25EW2VNgZBnMdLpxDoPfzGsrU8XfisNJZByCay441yIA9tWmUTkCliNj2ttZCd4qrCpZCmKLcQWlzYIiQ2fBHumeKZBZBLlGRGBsAl79rOeQEVVPvDpIzkLamYTmkWDdXP2i7CZAGQAUA6b",
+        "FB_VERFIY": "eewqweqweqweqweqweqweqwewqe"
+    },
+    "server":{
+        "PORT" : 3000
+    }
+}
